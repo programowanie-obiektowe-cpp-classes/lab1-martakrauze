@@ -1,0 +1,3 @@
+/home/marta/Documents/Nauka/Cpp/lab1/lab1-martakrauze/CMakeFiles/zal.dir
+/home/marta/Documents/Nauka/Cpp/lab1/lab1-martakrauze/CMakeFiles/edit_cache.dir
+/home/marta/Documents/Nauka/Cpp/lab1/lab1-martakrauze/CMakeFiles/rebuild_cache.dir
