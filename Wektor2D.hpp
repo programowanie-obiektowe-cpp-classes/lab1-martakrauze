@@ -1,6 +1,6 @@
 class Wektor2D
 {   
-    public:
+public:
     Wektor2D()
     {
         x=0;
@@ -27,7 +27,7 @@ class Wektor2D
     {
         return y;
     }
-    private:
+private:
     double x;
     double y;
 };
@@ -35,9 +35,9 @@ class Wektor2D
 Wektor2D operator+(Wektor2D w, Wektor2D v)
 {
     return Wektor2D(w.getX()+v.getX(), w.getY()+v.getY());
-};
+}
 
 double operator*(Wektor2D w, Wektor2D v)
 {
     return w.getX() * v.getX() + w.getY() * v.getY();
-};
+}
